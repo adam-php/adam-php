@@ -27,8 +27,8 @@ I'm a Full Stack Developer passionate about building modern web applications. I 
   
 ### 📫 How to reach me
 
-- ✉️ [Email](mailto:adamzaki1302@gmail.com)
-- 📫 [Discord]adam.php
+- ✉️ [adamzaki1302@gmail.com](mailto:adamzaki1302@gmail.com)
+- 📫 Discord: adam.php
 
 ---
 ⭐️ From [adam-php](https://github.com/adam-php)
