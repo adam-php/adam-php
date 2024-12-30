@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Adam
 
 ## 🚀 About Me
-I'm a Full Stack Developer passionate about building modern web applications. I work with both frontend and backend technologies, specializing in PHP, TypeScript, React, and Supabase.
+I'm a Full Stack Developer passionate about building modern web applications. I work with both frontend and backend technologies, specializing in PHP, TypeScript, React, Python, and Supabase.
 
 ### 🛠️ Technologies & Tools
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -18,25 +18,17 @@ I'm a Full Stack Developer passionate about building modern web applications. I 
 - Database: MySQL, Supabase, Firebase
 - Tools & Others: Git, RESTful APIs, Docker
 
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-php&show_icons=true&theme=radical)
-
 ### 🔝 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-php&layout=compact&theme=radical)
 
 ### 🌟 Featured Projects
-<!-- Add your best projects here with brief descriptions -->
-<!-- Example:
-- [Project Name](link) - Brief description of what it does and what technologies were used
--->
 
+- [Cognify](https://github.com/adam-php/cognify) - A superpowered mind-mapping app designed to revolutionize knowledge bases.
+  
 ### 📫 How to reach me
-<!-- Add your preferred contact methods -->
-<!-- Example:
-- 💼 [LinkedIn](your-linkedin-url)
-- 🌐 [Personal Website](your-website)
-- ✉️ [Email](mailto:your-email)
--->
+
+- ✉️ [Email](mailto:adamzaki1302@gmail.com)
+- 📫 [Discord]adam.php
 
 ---
 ⭐️ From [adam-php](https://github.com/adam-php)
